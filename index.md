@@ -7,10 +7,7 @@ title: Home
 
 A small, clean homepage for a GitHub Pages site.
 
-> Tip: Update your site settings in `_config.yml` (title, description, theme).
-
 ## What This Project Is
-
 
 ## Quick Links
 
