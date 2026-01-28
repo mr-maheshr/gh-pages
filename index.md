@@ -1,3 +1,23 @@
 ---
-title: Welcome to my blog!
+layout: home
+title: Home
 ---
+
+# 👋 Welcome
+
+A small, clean homepage for a GitHub Pages site.
+
+> Tip: Update your site settings in `_config.yml` (title, description, theme).
+
+## What This Project Is
+
+
+## Quick Links
+
+## Features
+- Markdown-based content
+- Works out of the box with GitHub Pages
+- Easy navigation and structure
+
+## Getting Started
+```bash
